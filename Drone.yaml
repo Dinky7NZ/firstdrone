@@ -16,10 +16,10 @@ steps:
   image: plugins/docker
   settings:
     username:
-      from_secret: docker_username
+      from_secret: douglasyoungnz
     password:
-      from_secret: docker_password
-    repo: Dinky7NZ/firstdrone
+      from_secret: dugDocker01!
+    repo: douglasyoungnz/harness_drone_lab
     tags:
      - '1.0.2'
 
