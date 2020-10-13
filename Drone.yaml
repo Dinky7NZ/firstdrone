@@ -18,7 +18,7 @@ steps:
     username:
       from_secret: douglasyoungnz
     password:
-      from_secret: dugDocker01!
+      from_secret: 
     repo: douglasyoungnz/harness_drone_lab
     tags:
      - '1.0.2'
