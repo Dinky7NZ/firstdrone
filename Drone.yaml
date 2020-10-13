@@ -22,3 +22,7 @@ steps:
     repo: Dinky7NZ/firstdrone
     auto_tag: true
     auto_tag_suffix: drone-build
+    tags:
+     - 1.0.1'
+
+    
